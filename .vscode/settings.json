@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/ae675ebc-c2dc-4887-8f37-5c74a432a92b/resourceGroups/WebAppTest1/providers/Microsoft.Web/sites/fesko",
+    "appService.deploySubpath": "."
+}
