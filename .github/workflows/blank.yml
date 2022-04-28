@@ -2,7 +2,7 @@
 
 name: CI
 
-# Test Push for trigger Azure Function
+# Test Push for trigger Azure Functions
 
 # Controls when the workflow will run
 on:
