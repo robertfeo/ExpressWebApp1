@@ -2,7 +2,7 @@
 
 name: CI
 
-# Test Push for trigger Azure Functionsasd
+# Test Push for trigger Azure Function
 
 # Controls when the workflow will run
 on:
